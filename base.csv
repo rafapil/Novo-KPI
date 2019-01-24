@@ -1,0 +1,108 @@
+item_id_0;  2212476; MIDe;    Tempo MID_central_5min
+item_id_1;  2212479; MIDe;    Tempo MID6_ral_5min
+item_id_2;  2212481; MIDe;    Tempo MID4_centcentral_5min
+item_id_3;  2212483; MIDe;    Tempo MID5_central_5min
+item_id_4;  2198455; MIDe;    Contingencia_MIDCentral_60min
+item_id_5;  2198498; MIDe;    Contingencia_MID_mide6_60min
+item_id_6;  2199995; MIDe;    Offline_MID_mide6
+item_id_7;  2198369; MIDe;    Contingencia_MID_azure_mide4_60min
+item_id_8;  2198412; MIDe;    Contingencia_MID_azure_mide5_60min
+item_id_9;  2003427; DTEF;    Tempo Autorização (LINX + ADQ)
+item_id_10;  917847; Microvix;    Tempo ERP Microvix
+item_id_11;  2156697; Microvix;   Tempo POS Microvix
+item_id_12;  2184022; Microvix;  Tempo Sincronização do PDV
+item_id_13;  878233; Microvix;  Transacional MVX PROD1 
+item_id_14;  878234; Microvix;   Transacional MVX PROD2 
+item_id_15;  878235; Microvix;   Transacional MVX PROD3  
+item_id_16;  878236; Microvix;   Transacional MVX PROD4  
+item_id_17;  878237; Microvix;   Transacional MVX PROD5  
+item_id_18;  878238; Microvix;   Transacional MVX PROD6  
+item_id_19;  878239; Microvix;   Transacional MVX PROD7  
+item_id_20;  878240; Microvix;   Transacional MVX PROD8  
+item_id_21;  878241; Microvix;   Transacional MVX PROD9  
+item_id_22;  878242; Microvix;   Transacional MVX PROD10  
+item_id_23;  878243; Microvix;   Transacional MVX PROD11  
+item_id_24;  878244; Microvix;   Transacional MVX PROD12  
+item_id_25;  878245; Microvix;   Transacional MVX PROD13  
+item_id_26;  878246; Microvix;   Transacional MVX PROD14 
+item_id_27;  2031527; UX;   Tempo Aut UX - Autenticacao - Azure
+item_id_28;  2050988; UX;   Tempo Aut UX - Atenticacao - AMC
+item_id_29;  2098521; UX;   Tempo Aut UX - Atenticacao - DLG
+item_id_30;  2098515; UX;   Tempo Aut UX - Atenticacao - LNX
+item_id_31;  2031579; UX;   Tempo App UX - Application
+item_id_32;  2050982; UX;   Tempo App UX - Application - Azure AMC
+item_id_33;  2098496; UX;   Tempo App UX - Application - Azure - DLG
+item_id_34;  2098508; UX;   Tempo App UX - Application - Azure - LNX
+item_id_35;  2031567; UX;   Tempo PORTAL UX - PORTAL - Azure
+item_id_36;  2050975; UX;   Tempo PORTAL UX - PORTAL - Azure AMC
+item_id_37;  2098563; UX;   Tempo PORTAL UX - PORTAL - Azure - DLG
+item_id_38;  2098575; UX;   Tempo PORTAL UX - PORTAL - Azure - LNX
+item_id_39;  1970492; Analytics;   Tempo de Autenticação
+item_id_40;  1970501; Analytics;   Tempo Desempenho View Gerente
+item_id_41;  1970495; Analytics;   Tempo Desempenho View Executivo
+item_id_42;  1879138; OPUS;   Tempo Linx Estetica Login
+item_id_43;  1879174; OPUS;   Tempo Linx Estetica - Consulta Vendas
+item_id_44;  1879375; OPUS;   Tempo Linx Estetica - Consulta Titulos
+item_id_45;  1879411; OPUS;   Tempo Linx Estetica - Consulta Liquidacao
+item_id_46;  1956402; OPUS;   Tempo Linx Estetica - Consulta Pessoa
+item_id_47;  1956426; OPUS;   Tempo Linx Estetica - Consulta de Agendamentos
+item_id_48;  1956450; OPUS;   Tempo Linx Estetica - Consulta de Lancamentos
+item_id_49;  1879144; OPUS;   Tempo Linx Ensino Login
+item_id_50;  1879180; OPUS;   Tempo Linx Ensino - Consulta Vendas
+item_id_51;  1879381; OPUS;   Tempo Linx Ensino - Consulta Titulos
+item_id_52;  1879417; OPUS;   Tempo Linx Ensino - Consulta Liquidacao
+item_id_53;  1956408; OPUS;   Tempo Linx Ensino - Consulta Pessoa
+item_id_54;  1956456; OPUS;   Tempo Linx Ensino - Consulta de lancamentos
+item_id_55;  1879150; OPUS;   Tempo Linx Lavanderias Login
+item_id_56;  1879186; OPUS;   Tempo Linx Lavanderias - Consulta Vendas
+item_id_57;  1879387; OPUS;   Tempo Linx Lavanderias - Consulta Titulos
+item_id_58;  1879423; OPUS;   Tempo Linx Lavanderias - Consulta Liquidacao
+item_id_59;  1956414; OPUS;   Tempo Linx Lavanderias - Consulta Pessoa
+item_id_60;  1956462; OPUS;   Tempo Linx Lavanderias - Consulta de Lancamentos
+item_id_61;  2089008; Degust;   Tempo GERAL_carregarLojas
+item_id_62;  2089007; Degust;   Tempo GERAL_carregarPerfis
+item_id_63;  2089006; Degust;   Tempo GERAL_obterChaveAcesso
+item_id_64;  2089005; Degust;   Tempo GERAL_validarSenha
+item_id_65;  2089004; Degust;   Tempo GERAL_validarLogin
+item_id_66;  2089087; Degust;   Tempo VAREJO_carregarLojas
+item_id_67;  2089086; Degust;   Tempo VAREJO_carregarPerfis
+item_id_68;  2089085; Degust;   Tempo VAREJO_obterChaveAcesso
+item_id_69;  2089084; Degust;   Tempo VAREJO_validarSenha
+item_id_70;  2089083; Degust;   Tempo VAREJO_validarLogin
+item_id_71;  878353; Rezende;   Tempo LM10-B1-EMSYS: Performance
+item_id_72;  878354; Rezende;   Tempo LM10-B3-EMSYS: Performance
+item_id_73;  878356; Rezende;   Tempo LM11-B3-EMSYS: Performance
+item_id_74;  878358; Rezende;   Tempo LM12-B3-EMSYS: Performance
+item_id_75;  878360; Rezende;   Tempo LM13-B3-EMSYS: Performance
+item_id_76;  878366; Rezende;   Tempo LM9-B3-EMSYS: Performance
+item_id_77;  1213617; Rezende;   Tempo CTX-PG01-EMSYS: Performance
+item_id_78;  1213618; Rezende;   Tempo LM14-B3-EMSYS: Performance
+item_id_79;  1213619; Rezende;   Tempo LM15-B3-EMSYS: Performance
+item_id_80;  1213621; Rezende;   Tempo XCH01-PG02-EMSYS: Performance
+item_id_81;  1213622; Rezende;   Tempo XCH01-PG03-EMSYS: Performance
+item_id_82;  1213623; Rezende;   Tempo XCH01-PG04-EMSYS: Performance
+item_id_83;  1213624; Rezende;   Tempo XCH01-PG05-EMSYS: Performance
+item_id_84;  1213625; Rezende;   Tempo XCH01-PG06-EMSYS: Performance
+item_id_85;  2182292; Rezende;   Tempo emsysprd-vppg01-EMSYS: Performance
+item_id_86;  2182293; Rezende;   Tempo emsysprd-vppg02-EMSYS: Performance
+item_id_87;  2182294; Rezende;   Tempo emsysprd-vppg03-EMSYS: Performance
+item_id_88;  2182295; Rezende;   Tempo emsysprd-vppg04-EMSYS: Performance
+item_id_89;  2182296; Rezende;   Tempo emsysprd-vppg05-EMSYS: Performance
+item_id_90;  2182297; Rezende;   Tempo emsysprd-vppg06-EMSYS: Performance
+item_id_91;  2182298; Rezende;   Tempo emsysprd-vppg07-EMSYS: Performance
+item_id_92;  1013762; BIG;   Tempo LNXBIGWEB08-BIGCONECTA
+item_id_93;  1013763; BIG;   Tempo LNXBIGWEB09-BIGCONECTA
+item_id_94;  1013764; BIG;   Tempo LNXBIGWEB07-BIGCONECTA
+item_id_95;  1013765; BIG;   Tempo LNXBIGWEB10-BIGCONECTA
+item_id_96;  1013766; BIG;   Tempo LNXBIGWEB11-BIGCONECTA
+item_id_97;  1013767; BIG;   Tempo LNXBIGDB07-BIGCONECTA
+item_id_98;  1013768; BIG;   Tempo LNXBIGDB08-BIGCONECTA
+item_id_99;  1013769; BIG;   Tempo LNXBIGDB09-BIGCONECTA
+item_id_100; 1013770; BIG;   Tempo LNXBIGDB10-BIGCONECTA
+item_id_101; 1013771; BIG;   Tempo LNXBIGDB11-BIGCONECTA
+item_id_102; 1933985; BIG;   Tempo LNXBIGDB16-BIGCONECTA
+item_id_103; 2183984; BIG;   Tempo LNXBIGDB18-BIGCONECTA
+item_id_104; = 2211250; Seller;   Tempo Seller_Tempo_Fun_0_Todos
+item_id_105; = 2211251; Seller;   Tempo Seller_Tempo_Fun_16105_todos
+item_id_106; = 2211262; Seller;   Tempo Seller_Tempo_Fun_16810_todos
+item_id_107; = 2211260; Seller;   Tempo Seller_Tempo_Fun_17110_todos
